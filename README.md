@@ -1,13 +1,6 @@
-## Hey 👋, I'm Ahmed Abdelsalam! 
+## Hey 👋, I'm Ahmed Abdelsalam
 
-<div align="left">
-  <a href="رابط_لينكد_إن_الخاص_بك" target="_blank">
-    <img src="https://shields.io" alt="linkedin" />
-  </a>
-  <a href="رابط_تويتر_إن_وجد" target="_blank">
-    <img src="https://shields.io" alt="twitter" />
-  </a>
-</div>
+
 
 <br/>
 
@@ -32,7 +25,7 @@ I am a passionate **Front-end Web Developer** 🌐. I love building responsive, 
   <img src="https://shields.io" alt="HTML5" />
   <img src="https://shields.io" alt="CSS3" />
   <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="React" />
+  <img src="https://opensource.fb.com/img/projects/react.jpg" alt="React" />
   <img src="https://shields.io" alt="Bootstrap" />
   <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="Figma" />
