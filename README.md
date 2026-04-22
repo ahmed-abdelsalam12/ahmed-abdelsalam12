@@ -11,9 +11,9 @@ I am a passionate **Front-end Web Developer** 🌐. I love building responsive, 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **[اسم مشروعك الحالي]**
+
 - 🤝 &nbsp; I’m looking to collaborate on **Open Source Front-end projects**
-- 🌱 &nbsp; I’m currently learning **React.js / Next.js** (أو أي تقنية تتعلمها الآن)
+- 🌱 &nbsp; I’m currently learning **React.js / Next.js**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com)
 - 💬 &nbsp; Ask me about **HTML, CSS, JavaScript, or React**
 - 📫 &nbsp; Feel free to reach out on [LinkedIn](رابط_لينكد_إن)
