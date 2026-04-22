@@ -25,7 +25,7 @@ I am a passionate **Front-end Web Developer** 🌐. I love building responsive, 
   <img src="https://shields.io" alt="HTML5" />
   <img src="https://shields.io" alt="CSS3" />
   <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://opensource.fb.com/img/projects/react.jpg" alt="React" />
+  <img src="https://shields.io" alt="React" />
   <img src="https://shields.io" alt="Bootstrap" />
   <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="Figma" />
