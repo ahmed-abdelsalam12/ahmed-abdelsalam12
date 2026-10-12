@@ -19,19 +19,6 @@ I am a passionate **Front-end Web Developer** 🌐. I love building responsive, 
 
 <br>
 
-### 🔨 Languages and Tools:
-
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Bootstrap" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Figma" />
-</p>
-
-<br>
 
 ### 📊 Github Stats 
 
