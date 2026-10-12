@@ -20,9 +20,3 @@ I am a passionate **Front-end Web Developer** 🌐. I love building responsive, 
 <br>
 
 
-### 📊 Github Stats 
-
-<p align="center">
-  <img width="48%" src="https://vercel.app" />
-  <img width="48%" src="https://vercel.app" />
-</p>
